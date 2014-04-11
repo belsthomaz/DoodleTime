@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DoodleTime</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="guten_tag">Doodle Time!</string>
+    <string name="title_activity_canvas">CanvasActivity</string>
+
+</resources>
